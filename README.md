@@ -9,6 +9,6 @@ A theme for Ulauncher. Yaru Dark theme.
 
 ```sh
 mkdir -p ~/.config/ulauncher/user-themes
-git clone https://github.com/Raayib/Yaru-Dark-ulauncher.git \
-  ~/.config/ulauncher/user-themes/Yaru-Dark-ulauncher
+git clone https://github.com/randomCharacter/Yaru-Aqua-Dark-ulauncher.git \
+  ~/.config/ulauncher/user-themes/Yaru-Aqua-Dark-ulauncher
 ```
